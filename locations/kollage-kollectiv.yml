@@ -32,8 +32,6 @@ networks:
     name: kollage_segen
     prefix: 10.248.88.240/32
     ipv6_subprefix: -11
-    mesh_metric: 128
-    ptp: true
 
   - vid: 40
     role: dhcp
