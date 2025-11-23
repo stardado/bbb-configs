@@ -15,7 +15,7 @@ hosts:
 
 snmp_devices:
   - hostname: kollage-kollectiv-switch
-    address: 10.31.134.98
+    address: 10.248.89.226
     snmp_profile: edgeswitch
 
 
@@ -46,7 +46,7 @@ networks:
 
   - vid: 42
     role: mgmt
-    prefix: 10.31.134.96/28
+    prefix: 10.248.89.224/28
     gateway: 1
     dns: 1
     ipv6_subprefix: 1
