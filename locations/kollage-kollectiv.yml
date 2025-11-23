@@ -29,7 +29,7 @@ ipv6_prefix: "2001:bf7:750:b900::/56"
 networks:
   - vid: 11
     role: mesh
-    name: kollage-segen
+    name: kollage_segen
     prefix: 10.248.88.240/32
     ipv6_subprefix: -11
     mesh_metric: 128
