@@ -208,11 +208,12 @@ location__channel_assignments_11a_standard__to_merge:
 
 # Switch 1
 # 1: core
+# 2: --
 # 3: sama-sued-5ghz
 # 4: sama-west-5ghz
 # 5: sama-sued-nf-5ghz
 # 6: sama-west-nf-5ghz
-# 7: --
+# 7: sama-ost-60ghz
 # 8: sama-saarbruecker
 
 # Switch 2
